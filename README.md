@@ -14,6 +14,10 @@ Here, we use 'The Mini Met' & 'Met' [dataset](http://cmp.felk.cvut.cz/met/) whic
 9) ResNeXt-101-32x8d-SWSL ([Mini](https://drive.google.com/file/d/1-3_4rTSCmF4BAQTPcD7Yf17a6pGPXZ_S/view?usp=sharing)/[Met](https://drive.google.com/file/d/1GV0jzMkeMvDNBtUdEk4JNvBAToLcUjCI/view?usp=sharing))
 10) ResNeXt-101-32x16d-SWSL ([Mini](https://drive.google.com/drive/folders/1IOBub7dDd5RECiBKA9eyEFdO-MF7HlJ3)/[Met](https://drive.google.com/file/d/1S1My1S9Z7y2ZdXK7HoN1FVVwzv8C9Xft/view?usp=sharing))
 
+### Repository and Code Structure
+There is no code structure in the repository. Since the dataset size is too big for GitHub, it could not be uploaded here. One needs to follow the Usage section to learn how to run the project.
+
+
 ### Usage
 
 
@@ -105,6 +109,9 @@ Navigate (```cd```) to ```[YOUR_MET_ROOT]/met/code```. ```[YOUR_MET_ROOT]``` is 
   ```
 
 </details>
+
+### Results
+
 
 
 ---
